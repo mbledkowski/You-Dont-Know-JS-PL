@@ -9,3 +9,8 @@ Kiedy zbiórka na książkę została ukończona, zaobserwowałem, że wiele os�
 Tak więc okazało się, że nie znam JavaScriptu. Nie wiedziałem czemu zaadoptowałem konkretne schematy; nie wiedziałem czemu JavaScript zachowuje się w dany sposób w danej sytuacji i nie znałem niuansów języka, gdzie zakładałem, że je znam. Wiele rzeczy było takich, że nie wiedziałem, że ich nie wiem i przez to byłem gorszym developerem.
 
 //To be continued. Jeśli chcesz możesz się przyłączyć i submitnąć pull requesta.
+
+Brian Holt
+Starszy Program Manager
+Visual Studio Code i Node.js na Azure
+Microsoft
