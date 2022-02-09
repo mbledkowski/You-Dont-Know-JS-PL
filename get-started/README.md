@@ -1,4 +1,4 @@
-# Nie znasz jeszcze JS-a: Rozpocznij - Wydanie drugie
+# Nie znasz jeszcze JS-a: Od Początku
 
 [Spis treści](toc.md)
 - [Przedmowa](foreword.md) (od [Brian'a Holt'a](https://twitter.com/holtbt))
