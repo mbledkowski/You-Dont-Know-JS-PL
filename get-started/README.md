@@ -1,7 +1,7 @@
 # Nie znasz jeszcze JS-a: Rozpocznij - Wydanie drugie
 
 [Spis treści](toc.md)
-- [Przedmowa (od [Brian'a Holt'a](https://twitter.com/holtbt))](foreword.md)
+- [Przedmowa](foreword.md) (od [Brian'a Holt'a](https://twitter.com/holtbt))
 - [Wstęp](../preface.md)
 - [Rozdział 1: Czym jest JavaScript?](ch1.md)
 - [Rozdział 2: Badanie JS-a](ch2.md)
