@@ -11,6 +11,9 @@ Tak więc okazało się, że nie znam JavaScriptu. Nie wiedziałem czemu zaadopt
 //To be continued. Jeśli chcesz możesz się przyłączyć i submitnąć pull requesta.
 
 Brian Holt
+
 Starszy Program Manager
+
 Visual Studio Code i Node.js na Azure
+
 Microsoft
