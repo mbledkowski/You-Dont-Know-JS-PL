@@ -1,4 +1,4 @@
-# Nie znasz (jeszcze) JS-a / You Don't Know JS (Yet)
+# Nie znasz (jeszcze) JS-a (You Don't Know JS (Yet))
 
 Seria książek zgłębiająca bazowe mechanizmy języka JavaScript. (Series of books diving deep into the core mechanisms of the JavaScript language.)
 
