@@ -72,12 +72,74 @@ temat JS-a. Nie sugeruję, że nie jesteś, bądź nie będziesz w stanie nauczy
 JS-a. Nie przechwalam się sekretną, insiderską wiedzą, którą tylko ja i kilku
 wybranych posiada.
 
-Poważnie, wszystkie te żywe reakcje na temat oryginalnego tytułu są od ludzi,
-którzy tego nawet nie przeczytali i są bezpodstawne.
+Poważnie, te wszystkie żywe reakcje na temat oryginalnego tytułu pochodzą od ludzi,
+którzy nawet tych książek nie przeczytali i są bezpodstawne.
 
-// To be continued.
+Główny powód dla tytułu You Don't Know JS Yet (Nie Znasz Jeszcze JS-a) jest taki,
+że większość osób piszących kod, nie poświęca czasu, by zrozumieć jak na prawdę
+on działa. Wiedzą, *że* działa - produkuje output, którego oczekują. Ale nie wiedzą
+*jak* działa lub co gorsza, mają niedokładny obraz mentalny tego *jak*, który
+mięknie przy bliższej obserwacji.
+
+Prezentuję delikatne, ale poważne wyzwanie, dla ciebie, czytelnika. Odłóż na bok
+założenia jakie masz odnośnie JS-a i podejdź do niego z świeżym okiem, oraz
+pełną wigoru ciekawością, która prowadzi ciebie do pytania *dlaczego* dla każdej
+linii kodu którą piszesz. Dlaczego to robi, to co robi? Dlaczego jedna metoda
+jest lepsza lub właściwsza od połowy tuzinu innych sposobów, którymi mogłx byś
+to osiągnąć. Dlaczego wszystkie "popularne dzieciaki" mówią, żeby robić X ze
+swoim kodem, a tak na prawdę Y może okazać się lepszym wyborem.
+
+Dodałem "Yet" ("Jeszcze") do tytułu, nie tylko dlatego, że jest to druga edycja
+lecz ponieważ, chcę aby te książki Ciebie wyzwywały w optymistyczny, aniżeli
+odstraszający sposób.
+
+Lecz pozwól mi postawić sprawę jasno: Nie sądzę aby pełne poznanie JS-a było
+możliwe. Nie jest to osiągnięcie do zdobycia, tylko raczej cel, do którego 
+należy dążyć. Nie kończysz wiedząc wszystko o JavaScript'cie, tylko uczysz się
+więcej i więcej, im więcej czasu spędzasz z językiem. Im głębiej pójdziesz, tym
+więcej razy spotkasz to co już wiedziałeś i nauczysz się ponownie z bardziej
+doświadczonej perspektywy.
+
+Zachęcam ciebie, aby wyrobić sobie mindset wokół JavaScript'u i w zasadzie,
+wokół software developementu jako całości, że nigdy nie nauczysz się tego w pełni,
+ale że możesz i powinieneś starać się by być bliżej końca tej podróży, która
+będzie się ciągnęła przez całą twoją karierę developera i dalej.
+
+Zawsze możesz znać JS-a lepiej, niż znasz go obecnie. To jest to, co mam nadzeję,
+reprezentują książki YDKJSY.
 
 ## Misja
 
+Naprawdę nie trzeba wyjaśniać, dlaczego developerzy powinni poważnie traktować
+JS-a - Myślę, że jest bardziej niż udowodniono, że jest on wartym statusu języka
+pierwszej klasy, wewnątrz świata języków programowania.
+
+Ale inna, ważniejsza rzecz wymaga wyjaśnienia i te książki starają się podjąć to
+wyzwanie.
+
+Uczyłem ponad 5 tysięcy developerów z zespołów i firm na całym świecie w ponad 25
+krajach, na sześciu kontynentach. To co zobaczyłem, to to, że zbyt często to co
+ma znaczenie, to rezultat programu, nie to jak program jest napisany i jak/dlaczego
+działa.
+
+Moje doświadczenie, nie tylko jako developer, ale również jako osoba która uczyła
+wielu innych developerów mówi mi: zawsze będziesz bardziej efektywny w swojej pracy
+jako developer, jeśli całkowicie zrozumiesz jak kod działa, niż gdy po prostu
+spowodujesz, że będzie produkować pożądany wynik.
+
+W innych słowach, *wystarczająco dobre, żeby działać*, nie jest i nie
+powinno być *wystarczająco dobre*.
+
+Wszyscy developerzy regularnie borykają się z problemem, że niektóre fragmenty
+kodu nie chcą działać i nie mogą zrozumieć dlaczego. Jednak zbyt często
+developerzy JavaScript'u zrzucą to na język, zamiast samemu się przyznać,
+że ich zrozumienie języka podupada. Te książki służą zarówno jako pytanie i
+odpowiedź: dlaczego to robi *tak*, i tutaj jest jak spowodować, że to zrobi *to*
+wzamian.
+
+Moją misją z YDKJSY jest to, aby wzmocnić każdego developera JavaScript, by w pełni
+posiadał kod który pisze, by zrozumiał go i pisał intencjonalnie i z zrozumieniem.
+
 ## Ścieżka
 
+// TO BE CONTINUED
