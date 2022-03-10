@@ -1,4 +1,4 @@
-# Nie Znasz Jeszcze JS'a
+# Nie Znasz Jeszcze JS-a
 # Wstęp
 
 Witaj w drugiej części, szeroko uznanej serii książek You Don't
@@ -6,20 +6,20 @@ Know JS (YDKJS): You Don't Know JS Yet (YDKJSY).
 
 Jeśli przeczytałeś jakąkolwiek książkę z pierwszej edycji, spodziewaj się
 odświeżonego podejścia w nowych książkach, z dużą ilością zaktualizowanego
-pokrycia, tego co się zmieniło w JS'ie w czasie ostatnich pięciu lat.
+pokrycia, tego co się zmieniło w JS-ie w czasie ostatnich pięciu lat.
 To w co wierzę i mam nadzieję, to to, że wciąż dostaniesz z niej
-to samo poświęcenie do respektowania JS'a i wchodzenia w szczegóły,
+to samo poświęcenie do respektowania JS-a i wchodzenia w szczegóły,
 które powodują, że wszystko klika.
 
 Jeśli to twój pierwszy raz, z tymi książkami, to cieszę się, że tu jesteś.
 Przygotuj się na głęboką i obszerną podróż po wszystkich zakątkach JavaScript'u.
 
-Jeśli jesteś nowy w programowaniu lub JS'ie, miej na uwadze to, że te książki nie
+Jeśli jesteś nowy w programowaniu lub JS-ie, miej na uwadze to, że te książki nie
 są stworzone jako delikatny "wstęp do JavaScript'u". Materiały te, momentami
 skomplikowane i wyzywające, idą znacznie głębiej, niż jest to typowe dla
 początkujących uczniów. Jesteś tu mile widziany niezależnie od twojej wiedzy,
 jednak książki te zostały napisane wychodząc z założenia, że czujesz się komfortowo
-z JS'em i masz conajmniej 6-9 miesięcy doświadczenia w nim.
+z JS-em i masz conajmniej 6-9 miesięcy doświadczenia w nim.
 
 ## Elementy
 
@@ -37,7 +37,7 @@ Miliony developerów piszą JavaScript każdego dnia, wiele z nich respektuje i 
 ten język.
 
 Jak każdy wielki język, ma on swoje świetne strony, jak i blizny. Nawet sam twórca
-JS'a, Brendan Eich, lamentuje na temat niektórych z tych elementów języka,
+JS-a, Brendan Eich, lamentuje na temat niektórych z tych elementów języka,
 uznając je za błędy. Aczkolwiek on nie ma racji: to wcale nie są błędy. JS jest
 tym czym jest dzisiaj - najbardziej wszechobecnym i najbardziej wpływowym językiem
 programowania. Dokładnie z powodu *wszystkich tych elementów*.
@@ -49,10 +49,10 @@ starej funkcji do rangi przestarzałego. Nie słuchaj, gdy ktoś mówi, że twó
 nie jest "nowoczesny", ponieważ nie używa stage-0 funkcji, która została
 zaproponowana kilka tygodni temu!
 
-Każdy element JS'a jest przydatny. Niektóre są przydatniejsze od innych. Niektóre
+Każdy element JS-a jest przydatny. Niektóre są przydatniejsze od innych. Niektóre
 elementy wymagają, że będziesz ostrożniejszx i bardziej umyślnx.
 
-Moim zdaniem jest to absurdalne, próbować być w pełni efektywnym developerem JS'a,
+Moim zdaniem jest to absurdalne, próbować być w pełni efektywnym developerem JS-a,
 używając jednocześnie małego wycinka tego, co język ma do zaoferowania. Czy
 możesz wyobrazić sobie pracownika budowlanego, który z całego zestawu narzędzi,
 używa jedynie młotka i szydzi z śróbokręta i taśmy mierniczej, nazywając je gorszymi?
@@ -68,12 +68,16 @@ książki, które mówią ci inaczej.
 O co chodzi z tym tytułem?
 
 Nie chcę cię urazić moim krytycyzmem, na temat braku twojej aktualniej wiedzy na
-temat JS'a. Nie sugeruję, że nie jesteś, bądź nie będziesz w stanie nauczyć się
-JS'a. Nie przechwalam się sekretną, insiderską wiedzą, którą tylko ja i kilku
+temat JS-a. Nie sugeruję, że nie jesteś, bądź nie będziesz w stanie nauczyć się
+JS-a. Nie przechwalam się sekretną, insiderską wiedzą, którą tylko ja i kilku
 wybranych posiada.
 
 Poważnie, wszystkie te żywe reakcje na temat oryginalnego tytułu są od ludzi,
 którzy tego nawet nie przeczytali i są bezpodstawne.
 
 // To be continued.
+
+## Misja
+
+## Ścieżka
 
