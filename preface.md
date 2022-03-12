@@ -142,4 +142,45 @@ posiadał kod który pisze, by zrozumiał go i pisał intencjonalnie i z zrozumi
 
 ## Ścieżka
 
-// TO BE CONTINUED
+Niektórzy z was zaczeli czytać tą książkę z misją przeczytania wszystkich
+sześciu części, od początku do końca.
+
+Chciałbym cię ostrzec, abyś przemyślałx ten plan.
+
+Nie jest moją intencją, aby YDKJSY było czytane jednym ciągiem. Materiał w tej
+książce jest gęsty, ponieważ JavaScript jest potężny, wyrafinowany i w
+niektórych miejscach raczej skomplikowany. Nikt nie może liczyć na to, że
+*pobierze* tą wiedzę do mózgu za jednym razem i zachowa jego sporą część.
+To jest niedorzeczne i nie warte próbowania.
+
+Moja sugestia, to to, że dasz sobie czas w trakcie przechodzenia przez YDKJSY.
+Weź jeden rozdział, przeczytaj go od początku do końca i wtedy wróć do początku
+i przeczytaj go ponownie, sekcja po sekcji. Przerwij pomiędzy sekcjami,
+przeczwicz kod, oraz idee z tej sekcji. Dla większych konceptów, jest
+prawdopodobnie dobrym pomysłem, oczekiwanie, że spędzisz kilka dni trawiąc,
+czytając, ćwicząc i wtedy trawiąc trochę więcej.
+
+Możesz spędzić tydzień lub dwa na każdym rozdziale, miesiąc lub dwa na każdej
+książce i rok lub więcej na całej serii i pomimo to, wciąż nie wyciśniesz każdej
+uncji z YDKJSY.
+
+Nie czytaj tych książek jednym ciągiem; bądź cierpliwy i rozsmaruj swoje czytanie.
+Przekładaj swoje czytanie z dużą ilością praktyki w twoim prawdziwym kodzie w
+twojej pracy lub w projektach w których partycypujesz. Siłuj się z opiniami,
+które przedstawiam, debatuj z innymi i przedewszystkim, nie zgadzaj się ze mną!
+Uruchom grupę wspólnego uczenia lub klub czytelniczy. Zorganizuj małe warsztaty
+w biurze. Napisz posty na blogu, odnośnie tego co się nauczyłxś. Mów o tych
+tematach na lokalnych spotkaniach JS-owych.
+
+Nigdy nie było moim celem, przekonywanie cię, by zgodzić się z moją opinią, lecz
+zachęcić cię, by posiąść i być w stanie obronić własnej opini. Nie możesz dostać
+się w to miejsce, czytając ciurkiem. Jest to coś co zajmuje sporo czasu, aby
+powstać, kawałek po kawałeczku, gdy uczysz się i rozmyślasz i powracasz.
+
+Te książki mają być przewodnikiem po twoich wędrówkach po JavaScript, od miejsca
+w którym aktualnie się znajdujesz, do miejsca gdzie głębiej rozumiesz ten język.
+I im głębiej go zrozumiesz, tym więcej pytań będziesz zadawać i więcej odkryjesz!
+Jest to coś co mnie ekscytuje!
+
+Jestem w niebowzięty tym, że rozpoczynasz tą podróż i jestem zaszczycony, że
+rozważysz i zapoznasz się z nimi. Czas rozpocząć *poznawanie JS-a*.
